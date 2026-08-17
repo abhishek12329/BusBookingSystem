@@ -1,0 +1,15 @@
+0:0:0:0:0:0:0:1 - - [17/Aug/2026:14:20:52 +0530] "GET /BusBookingSystem HTTP/1.1" 302 - http-bio-8081-exec-1 0
+0:0:0:0:0:0:0:1 - - [17/Aug/2026:14:20:53 +0530] "GET /BusBookingSystem/ HTTP/1.1" 200 21568 http-bio-8081-exec-3 683
+0:0:0:0:0:0:0:1 - - [17/Aug/2026:14:20:54 +0530] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8081-exec-4 0
+0:0:0:0:0:0:0:1 - - [17/Aug/2026:14:25:13 +0530] "GET /BusBookingSystem HTTP/1.1" 302 - http-bio-8081-exec-1 0
+0:0:0:0:0:0:0:1 - - [17/Aug/2026:14:25:13 +0530] "GET /BusBookingSystem/ HTTP/1.1" 200 21568 http-bio-8081-exec-2 40
+0:0:0:0:0:0:0:1 - - [17/Aug/2026:14:25:15 +0530] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8081-exec-3 0
+0:0:0:0:0:0:0:1 - - [17/Aug/2026:14:25:20 +0530] "GET /BusBookingSystem HTTP/1.1" 302 - http-bio-8081-exec-5 0
+0:0:0:0:0:0:0:1 - - [17/Aug/2026:14:26:30 +0530] "POST /BusBookingSystem/api/auth HTTP/1.1" 200 55 http-bio-8081-exec-8 6005
+0:0:0:0:0:0:0:1 - - [17/Aug/2026:15:52:11 +0530] "GET /BusBookingSystem HTTP/1.1" 302 - http-bio-8081-exec-1 0
+0:0:0:0:0:0:0:1 - - [17/Aug/2026:15:52:12 +0530] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8081-exec-3 0
+0:0:0:0:0:0:0:1 - - [17/Aug/2026:15:52:49 +0530] "POST /BusBookingSystem/api/auth HTTP/1.1" 200 55 http-bio-8081-exec-4 3564
+0:0:0:0:0:0:0:1 - - [17/Aug/2026:16:24:01 +0530] "GET /BusBookingSystem HTTP/1.1" 302 - http-bio-8081-exec-1 0
+0:0:0:0:0:0:0:1 - - [17/Aug/2026:16:24:28 +0530] "POST /BusBookingSystem/api/auth HTTP/1.1" 200 55 http-bio-8081-exec-3 6770
+0:0:0:0:0:0:0:1 - - [17/Aug/2026:16:25:58 +0530] "GET /BusBookingSystem HTTP/1.1" 302 - http-bio-8081-exec-1 0
+0:0:0:0:0:0:0:1 - - [17/Aug/2026:16:26:26 +0530] "POST /BusBookingSystem/api/auth HTTP/1.1" 200 55 http-bio-8081-exec-2 1233
